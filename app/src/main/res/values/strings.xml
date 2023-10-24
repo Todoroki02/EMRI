@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">output1</string>
+    <string name="transcript_placeholder">Transcript: %1$s</string>
+</resources>
