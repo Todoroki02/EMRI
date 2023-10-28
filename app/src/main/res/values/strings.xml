@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">output2</string>
+    <string name="instructions">Click Record to start recording your response</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="send">Send</string>
+    <string name="transcript_placeholder">Transcript: %1$s</string>
+</resources>
